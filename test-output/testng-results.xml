@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-13T17:10:23 EDT" name="Amazon" finished-at="2023-06-13T17:11:35 EDT" duration-ms="72312">
+    <groups>
+    </groups>
+    <test started-at="2023-06-13T17:10:23 EDT" name="Regression" finished-at="2023-06-13T17:11:35 EDT" duration-ms="72312">
+      <class name="testLayer.SigninTest">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:10:23 EDT" name="initsetup" finished-at="2023-06-13T17:10:36 EDT" duration-ms="13188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:10:36 EDT" name="Title" finished-at="2023-06-13T17:10:36 EDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:10:36 EDT" name="close" finished-at="2023-06-13T17:10:39 EDT" duration-ms="2530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:10:41 EDT" name="initsetup" finished-at="2023-06-13T17:10:51 EDT" duration-ms="9985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Signin(java.lang.String,java.lang.String)[pri:2, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:10:51 EDT" name="Signin" data-provider="Details" finished-at="2023-06-13T17:10:56 EDT" duration-ms="4750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[subbulakshmi.csg@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nethra@10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:10:56 EDT" name="close" finished-at="2023-06-13T17:10:59 EDT" duration-ms="2591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:10:59 EDT" name="initsetup" finished-at="2023-06-13T17:11:09 EDT" duration-ms="10278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Signin(java.lang.String,java.lang.String)[pri:2, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:11:09 EDT" name="Signin" data-provider="Details" finished-at="2023-06-13T17:11:13 EDT" duration-ms="4213" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sudha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:11:13 EDT" name="close" finished-at="2023-06-13T17:11:16 EDT" duration-ms="2980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:11:16 EDT" name="initsetup" finished-at="2023-06-13T17:11:28 EDT" duration-ms="12335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Signin(java.lang.String,java.lang.String)[pri:2, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:11:28 EDT" name="Signin" data-provider="Details" finished-at="2023-06-13T17:11:33 EDT" duration-ms="4538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sud123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.SigninTest@293a5bf6]" started-at="2023-06-13T17:11:33 EDT" name="close" finished-at="2023-06-13T17:11:35 EDT" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.SigninTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Amazon -->
+</testng-results>
